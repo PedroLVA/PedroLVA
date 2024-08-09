@@ -33,6 +33,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenhar
 ![](https://github-readme-stats.vercel.app/api?username=PedroLVA&theme=dark&border=false&include_all_commits=false&count_private=false&hide=prs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLVA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
