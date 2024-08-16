@@ -28,7 +28,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenhar
 
 <br>
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Stat</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=PedroLVA&theme=dark&border=false&include_all_commits=false&count_private=false&hide=prs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLVA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
