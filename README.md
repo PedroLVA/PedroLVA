@@ -6,7 +6,7 @@
 
 <img align="center" width="100%" src="https://mmos.com/wp-content/uploads/2023/10/terraria-sunset-view-banner.jpg" alt="banner">
  
-# Olá, me chamo Pedro Luiz! <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pvathayde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroathayde) <a href="mailto:pedro_athayde@outlook.com"> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)</a> 
+# Olá, me chamo Pedro Athayde! <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pvathayde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroathayde) <a href="mailto:pedro_athayde@outlook.com"> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)</a> 
 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba (FACENS) e técnico em Desenvolvimento de Sistemas pela ETEC Fernando Prestes. Amo tecnologia - uma área que me fascina por requerer um alto nível de pensamento lógico. Vejo essa área como uma das mais importantes do mundo, tendo em vista que todas as outras dependem dela de alguma forma.
