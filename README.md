@@ -9,7 +9,12 @@
 # Olá, me chamo Pedro Athayde! <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pvathayde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroathayde) <a href="mailto:pedro_athayde@outlook.com"> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)</a> 
 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba (FACENS) e técnico em Desenvolvimento de Sistemas pela ETEC Fernando Prestes. Amo tecnologia - uma área que me fascina por requerer um alto nível de pensamento lógico. Vejo essa área como uma das mais importantes do mundo, tendo em vista que todas as outras dependem dela de alguma forma. Atualmente estou desenvolvendo minhas habilidades Fullstack utilizando Angular, Springboot e ASP.NET Core.
+Sou um desenvolvedor apaixonado por tecnologia, buscando oportunidades como Junior na área de desenvolvimento de software. Sou fascinado pela tecnologia não apenas por exigir pensamento lógico, mas principalmente pelo seu poder transformador na sociedade.
+
+Acredito profundamente no potencial da inovação tecnológica para melhorar a vida da população como um todo. Meu objetivo é contribuir para soluções que façam diferença real no cotidiano das pessoas, tornando processos mais eficientes e acessíveis.
+Atualmente estou aperfeiçoando minhas habilidades em Desenvolvimento Fullstack, com foco em Spring Boot e Angular para construção de APIs Restful. Valorizo o trabalho em equipe e acredito que as melhores soluções surgem do esforço conjunto, da colaboração e da troca de conhecimentos entre profissionais comprometidos.
+
+Busco um ambiente onde possa crescer profissionalmente enquanto contribuo para projetos inovadores que tenham impacto positivo na sociedade.
 
 #
 
