@@ -1,6 +1,6 @@
-<div  align="center">
+<div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7C47A9&center=true&random=false&width=435&lines=Welcome+to+my+Profile!;I'm+a+developer!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=7C47A9&center=true&random=false&width=435&lines=Welcome+to+my+Profile!;I'm+a+Backend+Developer!)](https://git.io/typing-svg)
  
 </div>
 
@@ -8,13 +8,17 @@
  
 # Olá, me chamo Pedro Athayde! <br> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pvathayde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroathayde) <a href="mailto:pedro_athayde@outlook.com"> ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)</a> 
 
+Sou um Engenheiro de Software Backend movido pela paixão por tecnologia e pelo desafio de resolver problemas reais de alta complexidade. Formado pela FACENS, encaro a engenharia de software não apenas como lógica, mas como uma ferramenta poderosa para gerar impacto e segurança em larga escala.
 
-Sou um desenvolvedor apaixonado por tecnologia, buscando oportunidades como Junior na área de desenvolvimento de software. Sou fascinado pela tecnologia não apenas por exigir pensamento lógico, mas principalmente pelo seu poder transformador na sociedade.
+Atualmente, aplico essa visão no **Mercado Livre**, atuando no time de **Platform Security (PlatSec)**. Assumo a responsabilidade sobre fluxos críticos de autorização, permissões e roles que sustentam todo o ecossistema do Meli, garantindo que as operações ocorram de forma segura e ininterrupta.
 
-Acredito profundamente no potencial da inovação tecnológica para melhorar a vida da população como um todo. Meu objetivo é contribuir para soluções que façam diferença real no cotidiano das pessoas, tornando processos mais eficientes e acessíveis.
-Atualmente estou aperfeiçoando minhas habilidades em Desenvolvimento Fullstack, com foco em Spring Boot e Angular para construção de APIs Restful. Valorizo o trabalho em equipe e acredito que as melhores soluções surgem do esforço conjunto, da colaboração e da troca de conhecimentos entre profissionais comprometidos.
+Acredito que a excelência técnica é fundamental para entregar valor real. Por isso, minha rotina envolve atuar de ponta a ponta no ciclo de vida do software: desde o design arquitetural e desenvolvimento (predominantemente em **Golang** e **Java**), até o processo de deploy, monitoramento e análise de métricas para garantir resiliência absoluta em sistemas distribuídos.
 
-Busco um ambiente onde possa crescer profissionalmente enquanto contribuo para projetos inovadores que tenham impacto positivo na sociedade.
+**Focos atuais e expertise:**
+- Construção de APIs Restful resilientes e de alta disponibilidade.
+- Observabilidade e monitoramento contínuo utilizando **Datadog** e **Grafana**.
+- Arquitetura limpa (Hexagonal Architecture), testes automatizados e princípios SOLID.
+- Cultura DevOps e deploy em ambientes de alta criticidade.
 
 #
 
@@ -24,9 +28,14 @@ Busco um ambiente onde possa crescer profissionalmente enquanto contribuo para p
 
 <h3>💻 Tech Stack</h3>
 
-  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Spring-%23Clojure?style=for-the-badge&logo=spring&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+**Linguagens & Frameworks** <br>
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Spring-%23Clojure?style=for-the-badge&logo=spring&logoColor=white)
+
+**Infraestrutura & Observabilidade** <br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+**Bancos de Dados & Ferramentas** <br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
 #
   
 </div>
@@ -37,4 +46,3 @@ Busco um ambiente onde possa crescer profissionalmente enquanto contribuo para p
 
 ![](https://github-readme-stats.vercel.app/api?username=PedroLVA&theme=dark&border=false&include_all_commits=false&count_private=false&hide=prs)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLVA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
